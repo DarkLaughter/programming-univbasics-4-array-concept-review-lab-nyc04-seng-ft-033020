@@ -14,8 +14,8 @@ def find_max_value(array)
      if array[index] > highest
        highest = array[index]
      end
-     highest
 end
+  highest
 end
 
 def find_min_value(array)
